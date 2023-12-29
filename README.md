@@ -2,7 +2,7 @@
 
 ## 두번째 시도 
 
-### 뭐가문제지
+### 업데이트 기록
 
 *readme 파일 수정 정상작동*
 
@@ -22,5 +22,36 @@ site의 내용 및 layout 변경을 위해선 energey.qmd 파일의 파이썬 �
 * quarto render 
 * git push 
 절차를 거치면 되는듯...?
+
+### 교수님 블로그 참조
+- _quarto.yml 파일 변경
+
+기존
+``` 
+project:
+  type: website
+  output-dir: docs
+
+```
+
+이후
+```
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "About me"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/timeturtle0420
+      - icon: youtube
+        href: https://www.youtube.com/@user-lx8ks6er1s
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+```
 
  

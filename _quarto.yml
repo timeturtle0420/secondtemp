@@ -1,3 +1,16 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "About me"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/timeturtle0420
+      - icon: youtube
+        href: https://www.youtube.com/@user-lx8ks6er1s
+format:
+  html:
+    theme: cosmo
+    css: styles.css
