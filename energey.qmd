@@ -65,7 +65,7 @@ itables.show(df2,showIndex=False)
 
 # 시각화 {orientation="columns" scrolling="true"}
 
-## Column {width=50%}
+## Row {width=50%}
 
 ```{python}
 #| title: 2018년도 전기사용량 (전국)
@@ -85,7 +85,7 @@ fig = px.choropleth_mapbox(
 fig.show(config={'scrollZoom':False})
 ```
 
-## Column {width=50%}
+## Row {width=50%}
 
 ```{python}
 #| title: 2018~2019년도 전기사용량 (서울)
