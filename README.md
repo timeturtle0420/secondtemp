@@ -53,5 +53,8 @@ format:
     theme: cosmo
     css: styles.css
 ```
+- 결과 
+
+제대로 바뀜 git render 이후 git add . , git commit -m . , git push 해야하는듯?
 
  
