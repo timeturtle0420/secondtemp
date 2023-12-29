@@ -18,4 +18,9 @@ https://timeturtle0420.github.io/secondtemp/energey.html
 
 * ##Column {width=50%} \to\ Row {height=60%} 로 바꿨는데 작동안함...
 
+site의 내용 및 layout 변경을 위해선 energey.qmd 파일의 파이썬 코드를 변경후 
+* quarto render 
+* git push 
+절차를 거치면 되는듯...?
+
  
