@@ -1,6 +1,6 @@
 ---
-title: "에너지사용량 자료 분석"
-author: "본인이름~"
+title: "테스트중"
+author: "함대길"
 format: dashboard
 execute: 
   enabled: true
