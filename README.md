@@ -12,4 +12,6 @@ pip install git+https://github.com/quarto-dev/quarto-cli 정상작동 #quarto �
 
 _quarto.yml , energy.qmd 생성 및 작성 완료
 
-quarto render energey.qmd  입력 - 정상작동...하는 듯?
+quarto render energey.qmd  입력 - 정상작동...하는 듯? > 페이지 정상적으로 만들어진것 같음 
+
+https://timeturtle0420.github.io/secondtemp/energey.html
