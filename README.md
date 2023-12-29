@@ -23,7 +23,7 @@ site의 내용 및 layout 변경을 위해선 energey.qmd 파일의 파이썬 �
 * git push 
 절차를 거치면 되는듯...?
 
-### 교수님 블로그 참조
+### 교수님 블로그 참조(_quarto.yml 변경)
 - _quarto.yml 파일 변경
 
 기존
