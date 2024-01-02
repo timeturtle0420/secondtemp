@@ -63,7 +63,7 @@ itables.show(df2,showIndex=False)
 ```
 
 # 시각화 <!-- {orientation="columns" scrolling="true"} -->
-
+`
 
 ## Row {height=60%}
 
