@@ -1,5 +1,4 @@
 ---
-title: "테스트중"
 author: "함대길"
 format: dashboard
 execute: 
